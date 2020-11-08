@@ -2,7 +2,7 @@
 My program uses TCP, allows the client to connect to the server and send a message which is stored
 in specific directories and files and can be viewed on the message board.
 
-###Execution
+### Execution
 This can be run by opening two terminals: The Server (will be referred to as A) and The Client (will be referred to as B).
 
 
