@@ -3,6 +3,9 @@ My program uses TCP, allows the client to connect to the server and send a messa
 in specific directories and files and can be viewed on the message board.
 
 ### Execution
+You will need to change the filepath variable in the Server java file.
+
+
 This can be run by opening two terminals: The Server (will be referred to as A) and The Client (will be referred to as B).
 
 
